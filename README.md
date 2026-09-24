@@ -6,4 +6,7 @@ Membuat Collection
 <img width="1535" height="776" alt="image" src="https://github.com/user-attachments/assets/360303e5-4512-4f13-94d9-a97f6e2f3386" />
 <img width="1535" height="778" alt="image" src="https://github.com/user-attachments/assets/5cd54af9-8304-4508-a0f5-9c96faa8e6ce" />
 Membuat Conditional Expressions
+<img width="1534" height="705" alt="image" src="https://github.com/user-attachments/assets/31fd4c84-06f8-45a4-871e-d3d899e3bd68" />
+Membuat Loops Bagian For
 ![Uploading image.png…]()
+
