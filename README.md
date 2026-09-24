@@ -12,5 +12,10 @@ Membuat Loops Bagian For
 Membuat Functions
 <img width="1535" height="775" alt="image" src="https://github.com/user-attachments/assets/00a68268-4b27-47af-94e9-fec0bbcafd2f" />
 Membuat Named Arguments
+<img width="1535" height="781" alt="image" src="https://github.com/user-attachments/assets/6f344b1d-6e4c-4ede-8a49-5d207d134689" />
+Membuat Function Lanjutan: Default, Unit, dan Lambda
+<img width="1535" height="774" alt="image" src="https://github.com/user-attachments/assets/60e3685a-8f0d-49ff-b88a-e1686f48def2" />
+<img width="1535" height="773" alt="image" src="https://github.com/user-attachments/assets/f222299f-8af9-4463-91ff-4fbf670c675b" />
 ![Uploading image.png…]()
+
 
