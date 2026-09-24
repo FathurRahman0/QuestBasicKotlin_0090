@@ -10,5 +10,7 @@ Membuat Conditional Expressions
 Membuat Loops Bagian For
 <img width="1535" height="773" alt="image" src="https://github.com/user-attachments/assets/64f3c603-8178-4129-a588-6ca1ac0df78f" />
 Membuat Functions
+<img width="1535" height="775" alt="image" src="https://github.com/user-attachments/assets/00a68268-4b27-47af-94e9-fec0bbcafd2f" />
+Membuat Named Arguments
 ![Uploading image.png…]()
 
