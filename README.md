@@ -4,4 +4,6 @@
 Membuat Collection
 <img width="1535" height="779" alt="image" src="https://github.com/user-attachments/assets/40fff0fc-2529-411e-979c-1e5958fdae52" />
 <img width="1535" height="776" alt="image" src="https://github.com/user-attachments/assets/360303e5-4512-4f13-94d9-a97f6e2f3386" />
+<img width="1535" height="778" alt="image" src="https://github.com/user-attachments/assets/5cd54af9-8304-4508-a0f5-9c96faa8e6ce" />
+Membuat Conditional Expressions
 ![Uploading image.png…]()
