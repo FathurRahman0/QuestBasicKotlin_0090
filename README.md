@@ -8,5 +8,7 @@ Membuat Collection
 Membuat Conditional Expressions
 <img width="1534" height="705" alt="image" src="https://github.com/user-attachments/assets/31fd4c84-06f8-45a4-871e-d3d899e3bd68" />
 Membuat Loops Bagian For
+<img width="1535" height="773" alt="image" src="https://github.com/user-attachments/assets/64f3c603-8178-4129-a588-6ca1ac0df78f" />
+Membuat Functions
 ![Uploading image.png…]()
 
