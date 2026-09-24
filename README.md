@@ -16,6 +16,23 @@ Membuat Named Arguments
 Membuat Function Lanjutan: Default, Unit, dan Lambda
 <img width="1535" height="774" alt="image" src="https://github.com/user-attachments/assets/60e3685a-8f0d-49ff-b88a-e1686f48def2" />
 <img width="1535" height="773" alt="image" src="https://github.com/user-attachments/assets/f222299f-8af9-4463-91ff-4fbf670c675b" />
-![Uploading image.png…]()
-
-
+<img width="1535" height="778" alt="image" src="https://github.com/user-attachments/assets/af1bcef1-5441-455c-a28a-61916ed9ea59" />
+Membuat Class
+(Create Instance)
+<img width="1535" height="770" alt="image" src="https://github.com/user-attachments/assets/0682bc03-2c28-478e-abf0-0cf1ddde9250" />
+(Access Properties)
+<img width="1535" height="777" alt="image" src="https://github.com/user-attachments/assets/14df5b53-346c-452f-8502-ce9d427d4336" />
+(Member Functions)
+<img width="1534" height="777" alt="image" src="https://github.com/user-attachments/assets/df502f06-acaa-4093-bcf0-29c2353fcf17" />
+(Print as String)
+<img width="1535" height="773" alt="image" src="https://github.com/user-attachments/assets/c92c105d-a4c1-4457-9c57-0b966e7ec4e8" />
+(Compare Instances)
+<img width="1535" height="778" alt="image" src="https://github.com/user-attachments/assets/0cca1ed5-88ea-4bc0-a98a-1e78dcd231b5" />
+(Copy Instance)
+<img width="1535" height="774" alt="image" src="https://github.com/user-attachments/assets/a17d028f-86fb-4d3c-bd41-7ba70455ad76" />
+(Check for Null Values)
+<img width="1534" height="779" alt="image" src="https://github.com/user-attachments/assets/0d622238-489d-49b2-b7f6-2389e5cde38e" />
+(Use Safe Calls)
+<img width="1535" height="781" alt="image" src="https://github.com/user-attachments/assets/f9e47ef1-bf06-43d2-8547-a6af516e0f33" />
+(Use Elvis Operator)
+<img width="1535" height="774" alt="image" src="https://github.com/user-attachments/assets/c3475f4a-a01c-432b-97bb-6e7a4215f987" />
